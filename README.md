@@ -8,10 +8,7 @@ Demonstration of a desktop app built with [Electron] using the [Preact-Photon] U
 [Webpack2]: https://webpack.js.org/
 [Electron]: http://electron.atom.io/
 
-See [package.json](./package.json) for scripts and dependencies, including:
-- [Preact](https://preactjs.com/)
-- [Photon](http://photonkit.com/)
-- [Electron](http://electron.atom.io/)
+See [package.json](./package.json) for scripts and dependencies.
 
 Repository based on [electron-quick-start](https://github.com/electron/electron-quick-start).
 
