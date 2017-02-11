@@ -25,3 +25,4 @@ Repository based on electron-quick-start](https://github.com/electron/electron-q
 
 ## Screenshot
 
+![screenshot](https://cloud.githubusercontent.com/assets/1571667/22858146/d49f61f6-f069-11e6-9376-eed358cc20f2.png)
