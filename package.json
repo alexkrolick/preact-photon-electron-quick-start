@@ -8,7 +8,7 @@
     "watch": "webpack --progress --colors --watch",
     "build": "webpack --production"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/alexkrolick/preact-photon-electron-quick-start",
   "keywords": [
     "Electron",
     "quick",
