@@ -14,14 +14,14 @@ See [package.json](./package.json) for scripts and dependencies
 [Photon](http://photonkit.com/)
 [Electron](http://electron.atom.io/)
 
-Repository based on electron-quick-start](https://github.com/electron/electron-quick-start)
+Repository based on [electron-quick-start](https://github.com/electron/electron-quick-start)
 
 ## Usage
 
-- Install [Yarn] for your system (you can replace `yarn` with `npm` below if you don't wish to switch yet)
-- `yarn install` install dependencies.
-- `yarn watch` compile development version and watch for changes. Bundled files will appear in `dist/`.
-- `yarn start` in another terminal - start the desktop app. Use Ctrl-R or Cmd-R to reload the app.
+First, install [Yarn] for your system (you can replace `yarn` with `npm` below if you don't wish to switch yet)
+- `yarn install` Install dependencies.
+- `yarn watch` Compile development version and watch for changes. Bundled files will appear in `dist/`.
+- `yarn start` Start the desktop app (while watcher is running in another terminal). Use Ctrl-R or Cmd-R to reload the app.
 
 ## Screenshot
 
