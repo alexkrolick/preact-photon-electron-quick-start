@@ -13,7 +13,13 @@ let mainWindow
 
 function createWindow () {
   // Create the browser window.
-  mainWindow = new BrowserWindow({width: 800, height: 600})
+  mainWindow = new BrowserWindow({
+    width: 800, 
+    height: 600,
+    frame: false,
+    titleBarStyle: 'hidden-inset', // macOS only
+    frame: process.platform === 'darwin',
+  })
 
   // and load the index.html of the app.
   mainWindow.loadURL(url.format({
