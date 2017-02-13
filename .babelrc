@@ -1,5 +1,6 @@
 {
   "presets": ["stage-1", "react"],
+  "target": "electron",
   "plugins": [
     ["transform-react-jsx", { "pragma": "h" }]
   ]
